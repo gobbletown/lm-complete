@@ -1,6 +1,10 @@
 # lm-complete
 
-FIXME: description
+LM-complete is a backend completion mechanism that aims to support the following language model providers:
+
+- `Posthuman AI Marketplace` via `Ocean Protocol`
+- OpenAI API
+- Huggingface
 
 ## Installation
 
