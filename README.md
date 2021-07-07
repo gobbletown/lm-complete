@@ -5,6 +5,9 @@ LM-complete is a backend completion mechanism that aims to support the following
 - `Posthuman AI Marketplace` via `Ocean Protocol`
 - OpenAI API
 - Huggingface
+  - EleutherAI
+    - GPT Neo
+    - GPT-j
 
 ## Installation
 
