@@ -1,0 +1,39 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/d5bcb52b/
+-main	src/lm_complete/core.clj	/^(defn -main$/;"	f	namespace:lm-complete.core
+0.1.0 - 2021-07-07	CHANGELOG.md	/^## 0.1.0 - 2021-07-07$/;"	s
+Added	CHANGELOG.md	/^### Added$/;"	S
+Any Other Sections	README.md	/^### Any Other Sections$/;"	S
+Bugs	README.md	/^### Bugs$/;"	S
+Change Log	CHANGELOG.md	/^# Change Log$/;"	c
+Changed	CHANGELOG.md	/^### Changed$/;"	S
+Examples	README.md	/^## Examples$/;"	s
+Fixed	CHANGELOG.md	/^### Fixed$/;"	S
+Installation	README.md	/^## Installation$/;"	s
+Introduction to lm-complete	doc/intro.md	/^# Introduction to lm-complete$/;"	c
+License	README.md	/^## License$/;"	s
+Might be Useful	README.md	/^### Might be Useful$/;"	S
+Options	README.md	/^## Options$/;"	s
+Removed	CHANGELOG.md	/^### Removed$/;"	S
+That You Think	README.md	/^### That You Think$/;"	S
+Usage	README.md	/^## Usage$/;"	s
+[0.1.1] - 2021-07-07	CHANGELOG.md	/^## [0.1.1] - 2021-07-07$/;"	s
+[Unreleased]	CHANGELOG.md	/^## [Unreleased]$/;"	s
+artifactId	target/classes/META-INF/maven/lm-complete/lm-complete/pom.properties	/^artifactId=lm-complete$/;"	k
+central	pom.xml	/^      <id>central<\/id>$/;"	r
+clojars	pom.xml	/^      <id>clojars<\/id>$/;"	r
+default	Makefile	/^default:$/;"	t
+groupId	target/classes/META-INF/maven/lm-complete/lm-complete/pom.properties	/^groupId=lm-complete$/;"	k
+lm-complete	README.md	/^# lm-complete$/;"	c
+lm-complete	pom.xml	/^  <artifactId>lm-complete<\/artifactId>$/;"	a	groupId:lm-complete
+lm-complete	pom.xml	/^  <groupId>lm-complete<\/groupId>$/;"	g
+lm-complete.core	src/lm_complete/core.clj	/^(ns lm-complete.core$/;"	n
+lm-complete.core-test	test/lm_complete/core_test.clj	/^(ns lm-complete.core-test$/;"	n
+revision	target/classes/META-INF/maven/lm-complete/lm-complete/pom.properties	/^revision=6393b72f8867ae7a4a47d078891cb0fb8fcd39fe$/;"	k
+run	Makefile	/^run:$/;"	t
+version	target/classes/META-INF/maven/lm-complete/lm-complete/pom.properties	/^version=0.1.0-SNAPSHOT$/;"	k
