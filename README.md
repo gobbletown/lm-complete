@@ -1,6 +1,8 @@
 # lm-complete
 
-LM-complete is a backend completion mechanism that aims to support the following language model providers:
+`lm-complete` is a backend completion mechanism
+that aims to support the following LM
+providers:
 
 - `Posthuman AI Marketplace` via `Ocean Protocol`
 - OpenAI API
@@ -11,7 +13,7 @@ LM-complete is a backend completion mechanism that aims to support the following
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/semiosis/lm-complete.
 
 ## Usage
 
@@ -37,7 +39,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2021 FIXME
+Copyright © 2021 semiosis
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
