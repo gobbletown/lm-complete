@@ -26,7 +26,6 @@ providers:
 - [ ] PostHuman AI Market (Ocean Blockchain)
   - https://port.oceanprotocol.com/t/posthuman-ai-market-v1-1-luci-integration/675
 
-
 ## Installation
 
 Download from https://github.com/semiosis/lm-complete.
